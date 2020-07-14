@@ -15,5 +15,3 @@ def f(n):
 print (f(6))
 print (array)
 print (f(5))
-
-# modify ex3.py for test
